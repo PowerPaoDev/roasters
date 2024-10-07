@@ -10,7 +10,9 @@
             {
                 "phone": "085-085-3333",
                 "facebook": "https://www.facebook.com/vend.ettas.roaster",
-                "shopee": ""
+                "ig": "https://www.instagram.com/vend.ettas.roaster",
+                "shopee": "",
+                "line": ""
             }
         ]
     },
@@ -25,7 +27,9 @@
             {
                 "phone": "098-415-6338",
                 "facebook": "https://www.facebook.com/royceroaster.th",
-                "shopee": "https://shopee.co.th/royceroaster"
+                "ig": "",
+                "shopee": "https://shopee.co.th/royceroaster",
+                "line": "https://lin.ee/6s61zFr"
             }
         ]
     },
@@ -39,9 +43,10 @@
         "contact": [
             {
                 "phone": "",
-                "facebook": "https://www.facebook.com/Unitedroaster",
+                "facebook": "https://www.facebook.com/Unitedcoffeeroaster",
+                "ig": "https://www.instagram.com/unitedcoffeeroaster",
                 "shopee": "https://shopee.co.th/unitedcoffeeroaster",
-                "website": ""
+                "line": ""
             }
         ]
     },
@@ -56,8 +61,9 @@
             {
                 "phone": "081-030-4009",
                 "facebook": "https://www.facebook.com/profile.php?id=100030213102812",
-                "shopee": "",
-                "website": "https://doithaicoffee.com/shop"
+                "ig": "",
+                "shopee": "https://shopee.co.th/maekokroaster",
+                "line": ""
             }
         ]
     }
