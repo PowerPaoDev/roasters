@@ -83,6 +83,40 @@
                 "line": "https://lin.ee/jrAPYfn"
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "Week n coffee room",
+        "price": "150 - 800",
+        "province": "Chon Buri",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/422855329_357222903840029_7317771459324072408_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rZZam-pH6fEQ7kNvgHJ3wNL&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=AFA2zQ1QXTPfmiam8yBWJRI&oh=00_AYBd7J5RAvUAYuMY-bfAGJlVffFstaa_1FGb93-ZrvV-hA&oe=670AA875",
+        "imageAlt": "Week n coffee room Logo",
+        "contact": [
+            {
+                "phone": "086-842-8427",
+                "facebook": "https://www.facebook.com/people/Week-n-coffee-room/100086569660772/",
+                "ig": "https://www.instagram.com/week.n.coffee/",
+                "shopee": "https://shopee.co.th/piemplush",
+                "line": "https://lin.ee/m6b2yhyO"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "a good piece Coffee",
+        "price": "120 - 9999",
+        "province": "Ratchaburi",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/289049740_7563812337026905_3449384020050955918_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=fCqJOxYvVAAQ7kNvgHPnQ2m&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=A3mZBEQah_W13-k-rTIUe9h&oh=00_AYA83GHWZ7H-gHRUL5WIH-RrBf1yA9yTEeyO7eFLvY_5Tw&oe=670AC7F2",
+        "imageAlt": "a good piece Coffee Logo",
+        "contact": [
+            {
+                "phone": "084-146-6642",
+                "facebook": "https://www.facebook.com/agoodpiececoffeeroastery/",
+                "ig": "https://www.instagram.com/agoodpiece_coffeeroastery/",
+                "shopee": "",
+                "line": "@agoodpiece"
+            }
+        ]
     }
     
 ]
