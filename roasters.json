@@ -66,5 +66,23 @@
                 "line": ""
             }
         ]
+    },
+    {
+        "id": 5,
+        "name": "The Coffee Room",
+        "price": "50 - 1000",
+        "province": "Samut Prakan",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/449704891_1006740628125930_6641342808237705905_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=R1jP5iBkI9YQ7kNvgG1tyqY&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=A6e9c6kg8lwuzpyLSKTAV6I&oh=00_AYCgvUYTSt88WKCEp-MViwCyMcTM7mzbfXmR-_wu0THBfA&oe=670AAADF",
+        "imageAlt": "The Coffee Room Logo",
+        "contact": [
+            {
+                "phone": "094-935-6987",
+                "facebook": "https://www.facebook.com/TerrainTheCoffeeRoom",
+                "ig": "https://www.instagram.com/terrainthecoffeeroom/",
+                "shopee": "",
+                "line": "https://lin.ee/jrAPYfn"
+            }
+        ]
     }
+    
 ]
