@@ -117,6 +117,23 @@
                 "line": "https://lin.ee/abKvA10"
             }
         ]
+    },
+    {
+        "id": 8,
+        "name": "Midnight Roasters",
+        "price": "650 - 2700",
+        "province": "Bangkok",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/226643426_212492807490609_3746808858422530423_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4HgaurWYoGAQ7kNvgFhr5QZ&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=AWD6AUZTUkCw7sXgFVUPVuj&oh=00_AYC18zpxbmLs6u4ozqSo4FYDOdLFr-GYCyi0scPoOW_8aw&oe=670AD33A",
+        "imageAlt": "Midnight Roasters Logo",
+        "contact": [
+            {
+                "phone": "094-636-4245",
+                "facebook": "https://www.facebook.com/midnightroaster.bkk?mibextid=LQQJ4d",
+                "ig": "https://www.instagram.com/Midnightroasters.bkk/",
+                "shopee": "",
+                "line": ""
+            }
+        ]
     }
     
 ]
