@@ -134,6 +134,23 @@
                 "line": ""
             }
         ]
+    },
+    {
+        "id": 9,
+        "name": "Life Roasters",
+        "price": "150 - 10000",
+        "province": "Ubon Ratchathani",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/302078240_498179082312270_1798758668693496552_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=x8EJJ2emJRIQ7kNvgHV_9On&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=AV60nZJATbTyNQWabGja_0k&oh=00_AYDxCIVGZ8s9YyY9E2TuNibxW9BVCWcK1cnDWaS850m0UQ&oe=670BC824",
+        "imageAlt": "Life Roasters Logo",
+        "contact": [
+            {
+                "phone": "064-246-9898",
+                "facebook": "https://www.facebook.com/liferoasters",
+                "ig": "https://www.instagram.com/liferoasters/",
+                "shopee": "",
+                "line": "https://lin.ee/xxlmpOh"
+            }
+        ]
     }
     
 ]
