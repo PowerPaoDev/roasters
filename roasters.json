@@ -151,6 +151,74 @@
                 "line": "https://lin.ee/xxlmpOh"
             }
         ]
+    },
+    {
+        "id": 10,
+        "name": "Plern Plern Specailty Coffee",
+        "price": "50 - 150",
+        "province": "Phetchabun",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/269852069_639277860752448_4386604129106276949_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=r2inA3STyA4Q7kNvgGF23IC&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=ALMsuZll5K8L5wFTLBIi4SJ&oh=00_AYCtHtKW9SyHleftgcdgQy9JQiHLdy2djVWqromgET4dDQ&oe=6713B0BB",
+        "imageAlt": "Plern Plern Specailty Coffee Logo",
+        "contact": [
+            {
+                "phone": "092-486-1828",
+                "facebook": "https://www.facebook.com/liferoasters",
+                "ig": "https://www.instagram.com/plernplernspecialtycoffee/",
+                "shopee": "",
+                "line": ""
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Proud Coffee Roaster",
+        "price": "200 - 2500",
+        "province": "Bangkok",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/290188052_5108097605970608_8693769470522379738_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wO_UKhq1rtcQ7kNvgFAHrqR&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=AtFD_6aZ03VhzmQ01pQzEDY&oh=00_AYCWcMKu9nSA-pIpQ3tSeFq3ddrrQ4lqKF2w62YXHb4WNg&oe=6713B066",
+        "imageAlt": "Proud Coffee Roaster Logo",
+        "contact": [
+            {
+                "phone": "082-425-4595",
+                "facebook": "https://www.facebook.com/ProudCoffeeRoaster/",
+                "ig": "https://www.instagram.com/proudcoffeeroaster/",
+                "shopee": "",
+                "line": ""
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "TRoaster House Cafe",
+        "price": "50 - 200",
+        "province": "Saraburi",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/298359683_508271931306187_4166131705521835792_n.png?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=20BN8pIbVPIQ7kNvgFC3deK&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=A-uPk7Q84hvPJX1w-LKzhOt&oh=00_AYBNquy_iBDUMbva3a2A_nMRFlSPzcFgMfFJfUcgo2tJ7w&oe=6713B456",
+        "imageAlt": "TRoaster House Cafe Logo",
+        "contact": [
+            {
+                "phone": "085-421-0503",
+                "facebook": "https://www.facebook.com/TRoasterHouse/",
+                "ig": "https://www.instagram.com/troasterhouse/",
+                "shopee": "https://s.shopee.co.th/8UqqY3UN2y",
+                "line": ""
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Nap's Coffee and Roaster Chanthaburi",
+        "price": "70 - 750",
+        "province": "Chanthaburi",
+        "imageSrc": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/380734061_293150640139834_5202196937499562705_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=D9QmWxqRyD4Q7kNvgG1v_3L&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=AYbhsabRlg4a-TL9JlwOzOe&oh=00_AYCP30nf55FjQaRvHBzAppEp2M_TWhzbaubwddKImGKgLw&oe=6713D49F",
+        "imageAlt": "Nap's Coffee and Roaster Chanthaburi Logo",
+        "contact": [
+            {
+                "phone": "082-296-6889",
+                "facebook": "https://www.facebook.com/NapsChan",
+                "ig": "",
+                "shopee": "",
+                "line": ""
+            }
+        ]
     }
     
 ]
