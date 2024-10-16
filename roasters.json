@@ -219,6 +219,22 @@
                 "line": ""
             }
         ]
-    }
-    
+    },
+    {
+        "id": 14,
+        "name": "Mad Roastery",
+        "price": "55 - 400",
+        "province": "Nong Khai",
+        "imageSrc": "https://graph.facebook.com/108856972292628/picture?type=large",
+        "imageAlt": "Mad Roastery Logo",
+        "contact": [
+            {
+                "phone": "084-361-8661",
+                "facebook": "https://www.facebook.com/profile.php?id=100095225197564",
+                "ig": "",
+                "shopee": "",
+                "line": ""
+            }
+        ]
+    }   
 ]
