@@ -236,5 +236,39 @@
                 "line": ""
             }
         ]
-    }   
+    },
+    {
+        "id": 15,
+        "name": "ALLRIDE - coffee roaster",
+        "price": "150 - 1000",
+        "province": "Kamphaeng Phet",
+        "imageSrc": "https://graph.facebook.com/313070818889555/picture?type=large",
+        "imageAlt": "ALLRIDE - coffee roaster Logo",
+        "contact": [
+            {
+                "phone": "082-462-9639",
+                "facebook": "https://www.facebook.com/ALLRIDEKPP/",
+                "ig": "https://www.instagram.com/allridekpp/",
+                "shopee": "https://shopee.co.th/allridekpp",
+                "line": ""
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Hol Coffee & Roastery",
+        "price": "150 - 3000",
+        "province": "Nakhon Ratchasima",
+        "imageSrc": "https://graph.facebook.com/902710236451302/picture?type=large",
+        "imageAlt": "Hol Coffee & Roastery Logo",
+        "contact": [
+            {
+                "phone": "093-654-2436",
+                "facebook": "https://www.facebook.com/holcafe",
+                "ig": "https://www.instagram.com/hol.coffee.roastery/",
+                "shopee": "",
+                "line": "https://page.line.me/holcafe"
+            }
+        ]
+    } 
 ]
