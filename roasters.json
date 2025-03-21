@@ -270,5 +270,22 @@
                 "line": "https://page.line.me/holcafe"
             }
         ]
-    } 
+    },
+    {
+        "id": 17,
+        "name": "Brewline coffee roaster",
+        "price": "250 - 2500",
+        "province": "Saraburi",
+        "imageSrc": "https://graph.facebook.com/104019954730078/picture?type=large",
+        "imageAlt": "Brewline coffee roaster Logo",
+        "contact": [
+            {
+                "phone": "084-289-5528",
+                "facebook": "https://www.facebook.com/profile.php?id=100063584676635",
+                "ig": "https://www.instagram.com/brewlinecoffeeroaster/",
+                "shopee": "",
+                "line": ""
+            }
+        ]
+    }
 ]
